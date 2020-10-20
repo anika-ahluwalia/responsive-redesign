@@ -1,1 +1,60 @@
 /* Put your style information here! */
+/* img{
+    max-width: 60%;
+    height: auto;
+    width: auto\9;
+} */
+
+body{
+    font-family: 'Roboto', sans-serif;
+    padding: 62px;
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+}
+
+h5{
+    font-size: 20px;
+    color: #80A6DF;
+    padding-top: 40px;
+    padding-bottom: 18px;
+}
+
+.title-two{
+    color: #80A6DF;
+    padding-bottom: 10px;
+}
+
+.body-text{
+    padding-top: 10px;
+    color: black;
+    vertical-align: middle;
+}
+
+.row{
+    justify-content: center;
+    align-items: center;
+}
+
+.col-2{
+    width: 100%;
+}
+
+.final-img{
+    width: 100%;
+}
+
+.answer-text{
+    vertical-align: top;
+}
+
+.person{
+    padding: 3px;
+}
+
+.ans{
+    background-color: #ebf2fd;
+    padding: 10px;
+}

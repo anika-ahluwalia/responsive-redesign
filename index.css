@@ -85,6 +85,6 @@ h5{
     margin-bottom: 40px;
 }
 
-.collapse{
-    color: #80A6DF;
+.card-header{
+    background-color: #e4efff;
 }
